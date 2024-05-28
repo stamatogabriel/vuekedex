@@ -29,7 +29,7 @@
             sm="6"
             md="4"
             lg="3"
-            xl="2"
+            xl="3"
             v-for="(pokemon, index) in viewedPokemons"
             :key="index"
           >
@@ -48,7 +48,7 @@
             sm="6"
             md="4"
             lg="3"
-            xl="2"
+            xl="3"
             v-for="(pokemon, index) in pokemons"
             :key="index"
           >
